@@ -5,7 +5,7 @@
   "proxy": "http://localhost:2294/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/almasaeed2010/AdminLTE.git"
+    "url": "https://github.com/developerkyh/blog.git"
   },
   "scripts": {
     "start": "webpack-dev-server --progress --inline",
