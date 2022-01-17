@@ -18,6 +18,7 @@ node_modules/
 plugins/
 
 # file
+.vscode
 .bowerrc
 .eslintrc.js
 .npmignore
