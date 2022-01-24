@@ -126,6 +126,7 @@ module.exports = {
       protocol: 'http',
       port: 35729,
       hostname: 'localhost',
+      // hostname: '106.10.58.121/',
       appendScriptTag: true
     }),
     new webpack.NamedModulesPlugin(), // 브라우저에서 HMR 에러발생시 module name 표시

@@ -62,7 +62,7 @@
             <!--<li><a href="#"><i class="fa fa-circle-o"></i> ANGULARJS</a></li>-->
           </ul>
         </li>
-        <!--
+        
         <li class="header">DESIGNS</li>
         <router-link to="/design" class="treeview" tag="li">
           <a>
@@ -73,7 +73,7 @@
             </span>
           </a>
         </router-link>
-         -->
+        
       </ul>
 
       <div v-if="status.loggedIn" class="admin-btn-group">

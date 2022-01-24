@@ -3,14 +3,13 @@
     <!-- Logo -->
     <router-link to="/" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>P</b>T</span>
+      <span class="logo-mini"><b>A</b>B</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>PORT</b>FOLIO</span>
+      <span class="logo-lg"><b>amorray</b>blog</span>
     </router-link>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
       <!-- Sidebar toggle button-->
-
       <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
         <span class="sr-only">Toggle navigation</span>
       </a>
@@ -53,9 +52,7 @@
                 </div>
               </li>
             </ul>
-          </li>
-          
-          <!--
+          </li>          
           <li v-if="status.loggedIn">
             <router-link to="/logout" tag="a">
               <i class="fa fa-power-off"></i>
@@ -66,8 +63,6 @@
               <i class="fa fa-gears"></i>
             </router-link>
           </li>
-          -->
-          
         </ul>
       </div>
     </nav>
